@@ -15,3 +15,14 @@ Hardware
 4. DC motor / silnik wibrujący
 5. zasilanie
 
+
+
+Do pracy wykorzystujemy:
+
+- https://github.com/me-no-dev/ESPAsyncWebServer
+
+- https://github.com/me-no-dev/AsyncTCP
+
+oraz biblioteki:
+- Onewire
+- DallasTemperature
