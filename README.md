@@ -1,0 +1,2 @@
+# SterownikWedzarni
+Sterownik Wędzarni.
